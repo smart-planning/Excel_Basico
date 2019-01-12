@@ -1,0 +1,40 @@
+DataNotaFiscal;Fabricante;Estado;ValorVenda;ValorCusto;TotalDesconto;CustoEntrega;CustoMaoDeObra;NomeCliente;Modelo;Cor;Ano
+04/10/2012;Rolls Royce;São Paulo;95000;50000;500;750;750;Aldo Motors;Camargue;Vermelho;2012
+01/01/2012;Aston Martin;São Paulo;120000;75000;0;1500;550;Honest John;DBS;Azul;2012
+02/02/2012;Rolls Royce;São Paulo;88000;75000;750;1000;550;Bright Orange;Prata Ghost;Verde;2012
+03/03/2012;Rolls Royce;São Paulo;89000;88000;0;1000;550;Honest John;Prata Ghost;Azul;2012
+04/04/2012;Rolls Royce;São Paulo;92000;62000;0;1500;550;Wheels'R'Us;Camargue;Prata;2012
+04/05/2012;Rolls Royce;São Paulo;102500;125000;0;1000;550;Cut'n'Shut;Camargue;Verde;2012
+04/06/2012;Aston Martin;São Paulo;110000;56000;750;500;550;Bright Orange;DBS;Púrpura;2012
+04/07/2012;Aston Martin;Minas Gerais;125000;23500;2500;1000;550;Les Arnaqueurs;DB7;Vermelho;2012
+04/08/2012;Aston Martin;São Paulo;130000;15500;0;1000;750;Aldo Motors;DB9;Azul;2012
+04/09/2012;Aston Martin;São Paulo;75000;75890;0;1000;750;Aldo Motors;DB9;Prata;2012
+04/09/2012;Aston Martin;São Paulo;68500;99000;0;1000;750;Aldo Motors;DB4;Azul;2012
+04/11/2012;Aston Martin;Minas Gerais;95000;125000;0;1500;750;Les Arnaqueurs;Vantage;Prata;2012
+04/11/2012;Aston Martin;São Paulo;155000;125000;0;1500;750;Wheels'R'Us;Vanquish;Azul;2012
+04/12/2012;Aston Martin;São Paulo;95000;155000;5000;1500;570;Bright Orange;Rapide;Preto;2012
+04/12/2012;Aston Martin;São Paulo;178500;125000;0;1500;570;Cut'n'Shut;Zagato;Verde;2012
+01/01/2012;Jaguar;Rio de Janeiro;44000;25000;500;450;486;Rocky Riding;XK;Púrpura;2012
+01/02/2012;Jaguar;Rio de Janeiro;45000;37500;500;450;486;Rocky Riding;XJ6;Verde;2012
+01/03/2012;Jaguar;Espírito Santo;39500;25000;500;0;486;Voitures Diplomatiques S.A.;XJ12;Preto;2012
+01/04/2012;Jaguar;Minas Gerais;44000;37500;500;500;486;Les Arnaqueurs;XK;Prata;2012
+01/05/2012;Jaguar;São Paulo;44000;25000;500;500;486;Bright Orange;XJ12;Prata;2012
+01/06/2012;Jaguar;São Paulo;39500;37500;500;500;486;Honest John;XK;Azul;2012
+01/07/2012;Jaguar;São Paulo;44000;25000;500;1750;486;Wheels'R'Us;XK;Verde;2012
+01/08/2012;Jaguar;São Paulo;110000;50000;750;500;486;Cut'n'Shut;XJ12;Azul;2012
+01/09/2012;Jaguar;Rio de Janeiro;110000;25000;750;1750;987;Rocky Riding;XJ12;Prata;2012
+01/10/2012;Jaguar;Espírito Santo;44000;37500;750;1750;987;Voitures Diplomatiques S.A.;XJ6;Verde;2012
+01/11/2012;Jaguar;São Paulo;39500;25000;0;500;987;Aldo Motors;XK;Púrpura;2012
+01/12/2012;Jaguar;São Paulo;44000;37500;0;500;987;Aldo Motors;XK;Preto;2012
+01/01/2012;Bentley;São Paulo;39500;25700;750;500;1250;Cut'n'Shut;Continental;Azul;2012
+01/02/2012;Bentley;São Paulo;44000;25700;750;500;1250;Bright Orange;Arnage;Azul;2012
+01/03/2012;Bentley;São Paulo;44000;25700;750;500;987;Bright Orange;Azure;Vermelho;2012
+01/04/2012;Bentley;São Paulo;110000;25700;750;775;1250;Honest John;Turbo R;Vermelho;2012
+01/05/2012;Bentley;São Paulo;110000;62000;750;775;987;Honest John;Continental;Prata;2012
+01/06/2012;Bentley;São Paulo;110000;62000;500;775;1250;Aldo Motors;Continental;Púrpura;2012
+01/07/2012;Bentley;São Paulo;110000;25700;500;775;987;Aldo Motors;Continental;Verde;2012
+01/08/2012;Bentley;Espírito Santo;110000;25700;500;775;1250;Voitures Diplomatiques S.A.;Azure;Preto;2012
+01/09/2012;Bentley;Rio de Janeiro;44000;25700;500;775;987;Rocky Riding;Turbo R;Prata;2012
+01/10/2012;Bentley;Minas Gerais;110000;62000;500;500;1250;Les Arnaqueurs;Continental;Prata;2012
+01/11/2012;Bentley;São Paulo;44000;62000;500;450;987;Aldo Motors;Continental;Prata;2012
+01/12/2012;Bentley;São Paulo;44000;62000;500;450;987;Honest John;Continental;Azul;2012
